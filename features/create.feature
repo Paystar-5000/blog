@@ -1,4 +1,3 @@
-@bs
 Feature: Create a post
 
 As an author

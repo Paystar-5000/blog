@@ -9,6 +9,5 @@ class ReadPage
 	div(:author, :id => "post-author")
 	div(:date, :id => "post-date")
 	div(:content, :id => "post-content")
-	link(:delete_link, :id => "delete-link")
-
+	link(:home_link, :id => "home-link")
 end
